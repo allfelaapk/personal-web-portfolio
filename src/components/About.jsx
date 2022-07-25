@@ -18,11 +18,14 @@ function About() {
           </div>
           <div>
             <p>
-              I am passionate about building excellent software that improves
-              the lives of those around me. I specialize in creating software
-              for clients ranging from individuals and small-businesses all the
-              way to large enterprise corporations. What would you do if you had
-              a software expert available at your fingertips?
+              I am a tech enthusiast, who have a specialization in creating a
+              beautiful web interface. Actually, i start to learn as Front End
+              Developer since i was in semester 6 and still counting. During
+              that journey, i have already build some simple website or web
+              application. It was challenging when i found a bugs and so much
+              fun if the web has no bugs and can running. So whatever the
+              situation is, i've always to increase my skills as Front End
+              Developer or maybe Software Developer
             </p>
           </div>
         </div>
