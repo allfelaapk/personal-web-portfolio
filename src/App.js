@@ -1,20 +1,22 @@
 import About from './components/About';
 import Achievement from './components/Achievement';
 import Contact from './components/Contact';
-import Experiences from './components/Experiences';
+import Experience from './components/Experience';
 import Home from './components/Home';
 import Navbar from './components/Navbar';
+import Blog from './components/Blog';
 
 function App() {
   return (
-    <div className="App">
+    <>
       <Navbar />
       <Home />
       <About />
-      <Experiences />
       <Achievement />
+      <Experience />
       <Contact />
-    </div>
+      <Blog />
+    </>
   );
 }
 

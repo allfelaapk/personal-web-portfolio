@@ -19,7 +19,9 @@ function Contact() {
             {' '}
             Contact
           </p>
-          <p className="text-gray-300 py-4">if there any </p>
+          <p className="text-gray-300 py-4">
+            Let's fill out the form if you want to reach me out{' '}
+          </p>
         </div>
         <input
           type="text"

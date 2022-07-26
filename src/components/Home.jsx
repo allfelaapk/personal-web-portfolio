@@ -1,10 +1,12 @@
 import React, { useState } from 'react';
 import { HiArrowNarrowRight } from 'react-icons/hi';
+// import { useNavigate } from 'react-router-dom';
 import { Link } from 'react-scroll';
 
 function Home() {
   const [nav, setNav] = useState(false);
   const handleClick = () => setNav(!nav);
+
   return (
     <div name="home" className="w-full h-screen bg-[#0a192f]">
       {/* container */}

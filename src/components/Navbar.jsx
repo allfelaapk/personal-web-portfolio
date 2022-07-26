@@ -28,13 +28,13 @@ function Navbar() {
             </Link>
           </li>
           <li>
-            <Link to="experience" smooth={true} duration={500}>
-              Experience
+            <Link to="achievement" smooth={true} duration={500}>
+              Achievement
             </Link>
           </li>
           <li>
-            <Link to="achievement" smooth={true} duration={500}>
-              Achievement
+            <Link to="experience" smooth={true} duration={500}>
+              Experience
             </Link>
           </li>
           <li>
@@ -93,7 +93,7 @@ function Navbar() {
             </Link>
           </li>
           <li className="py-6 text-4xl">
-            <Link onClick={handleClick} to="blog" smooth={true} duration={500}>
+            <Link to="/blog" onClick={handleClick} smooth={true} duration={500}>
               Blog
             </Link>
           </li>
