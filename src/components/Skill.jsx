@@ -6,7 +6,7 @@ import ReactJS from '../assets/react.png';
 import Github from '../assets/github.png';
 import Firebase from '../assets/firebase.png';
 
-function Achievement() {
+function Skill() {
   return (
     <div
       name="achievement"
@@ -16,7 +16,7 @@ function Achievement() {
       <div className="max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full">
         <div>
           <p className="text-4xl  font-bold inline border-b-4 border-pink-600 ">
-            Achievement
+            Skill
           </p>
           <p className="py-4">These are the techonologies i've usually use</p>
         </div>
@@ -59,4 +59,4 @@ function Achievement() {
   );
 }
 
-export default Achievement;
+export default Skill;

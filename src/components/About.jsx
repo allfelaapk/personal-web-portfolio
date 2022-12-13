@@ -23,9 +23,11 @@ function About() {
               Developer since i was in semester 6 and still counting. During
               that journey, i have already build some simple website or web
               application. It was challenging when i found a bugs and so much
-              fun if the web has no bugs and can running. So whatever the
-              situation is, i've always to increase my skills as Front End
-              Developer or maybe Software Developer
+              fun if the web has no bugs and can running.Although when i was
+              intern as a QA, i also have an experience creating test case for
+              web application such as dashboard and mobile app. i also got a
+              task to check the API using Postman. So whatever the situation is,
+              i've always to increase my skills as Front End Developer and QA
             </p>
           </div>
         </div>

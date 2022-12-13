@@ -28,8 +28,8 @@ function Navbar() {
             </Link>
           </li>
           <li>
-            <Link to="achievement" smooth={true} duration={500}>
-              Achievement
+            <Link to="skills" smooth={true} duration={500}>
+              Skills
             </Link>
           </li>
           <li>
@@ -83,13 +83,8 @@ function Navbar() {
             </Link>
           </li>
           <li className="py-6 text-4xl">
-            <Link
-              onClick={handleClick}
-              to="achievement"
-              smooth={true}
-              duration={500}
-            >
-              Achievement
+            <Link onClick={handleClick} to="skill" smooth={true} duration={500}>
+              Skill
             </Link>
           </li>
           <li className="py-6 text-4xl">

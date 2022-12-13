@@ -1,5 +1,5 @@
 import About from './components/About';
-import Achievement from './components/Achievement';
+import Skill from './components/Skill';
 import Contact from './components/Contact';
 import Experience from './components/Experience';
 import Home from './components/Home';
@@ -29,7 +29,7 @@ function App() {
       <Navbar />
       <Home />
       <About />
-      <Achievement />
+      <Skill />
       <Experience />
       <Contact />
       <Blog />

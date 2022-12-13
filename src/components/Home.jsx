@@ -16,7 +16,7 @@ function Home() {
           Allfela Aisyah Putri Karinda
         </h1>
         <h2 className="text-4xl sm:text-7xl font-bold text-[#8892b0]">
-          I'm a Front End Developer{' '}
+          I'm passionate with Front End and QA{' '}
         </h2>
         <p className="text-[#8892b0] max-w-[700px] py-4">
           I'm an undergraduate student in information system, who have
